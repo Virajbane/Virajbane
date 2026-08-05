@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:00FF9C&height=220&section=header&text=VIRAJ%20BANE&fontSize=60&fontColor=00FF9C&fontAlignY=40&animation=twinkling&desc=AI%2FML%20Engineer%20%7C%20Building%20Multi-Agent%20RAG%20%26%20LLM%20Systems&descAlignY=60&descSize=18&descColor=C9D1D9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:14240D,100:84CC16&height=220&section=header&text=VIRAJ%20BANE&fontSize=60&fontColor=84CC16&fontAlignY=40&animation=twinkling&desc=AI%2FML%20Engineer%20%7C%20Building%20Multi-Agent%20RAG%20%26%20LLM%20Systems&descAlignY=60&descSize=18&descColor=E5E7EB" width="100%"/>
 
 </div>
 
@@ -24,26 +24,26 @@ $ status
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF9C&background=0D117100&center=true&vCenter=true&width=780&lines=Architecting+multi-agent+RAG+pipelines+with+LangGraph;Fusing+dense+%2B+sparse+retrieval+for+82%25+Recall%40+6;Fine-tuning+%26+publishing+NLP+models+on+Hugging+Face;Building+secure%2C+production-grade+FastAPI+backends;Open+to+AI%2FML+Engineer+roles+%E2%80%94+let%27s+build!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=84CC16&background=14240D00&center=true&vCenter=true&width=780&lines=Architecting+multi-agent+RAG+pipelines+with+LangGraph;Fusing+dense+%2B+sparse+retrieval+for+82%25+Recall%40+6;Fine-tuning+%26+publishing+NLP+models+on+Hugging+Face;Building+secure%2C+production-grade+FastAPI+backends;Open+to+AI%2FML+Engineer+roles+%E2%80%94+let%27s+build!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓_B.E.-Computer_Science_(AI_&_ML)-0D1117?style=flat-square&labelColor=0D1117&color=00FF9C" />
-  <img src="https://img.shields.io/badge/🏫_Viva_Institute_of_Technology-CGPA_8.1-0D1117?style=flat-square&labelColor=0D1117&color=00FF9C" />
-  <img src="https://img.shields.io/badge/📍_Mumbai,_Maharashtra,_India-0D1117?style=flat-square&labelColor=0D1117&color=00FF9C" />
+  <img src="https://img.shields.io/badge/🎓_B.E.-Computer_Science_(AI_&_ML)-14240D?style=flat-square&labelColor=14240D&color=84CC16" />
+  <img src="https://img.shields.io/badge/🏫_Viva_Institute_of_Technology-CGPA_8.1-14240D?style=flat-square&labelColor=14240D&color=84CC16" />
+  <img src="https://img.shields.io/badge/📍_Mumbai,_Maharashtra,_India-14240D?style=flat-square&labelColor=14240D&color=84CC16" />
 </p>
 
 <p align="center">
-  <a href="https://virrajportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF9C&color=0D1117&labelColor=0D1117" /></a>
-  <a href="https://linkedin.com/in/virubane"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C&color=0D1117&labelColor=0D1117" /></a>
-  <a href="mailto:virajbane2004@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9C&color=0D1117&labelColor=0D1117" /></a>
-  <a href="https://github.com/Virajbane"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C&color=0D1117&labelColor=0D1117" /></a>
+  <a href="https://virrajportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-14240D?style=for-the-badge&logo=vercel&logoColor=84CC16&color=14240D&labelColor=14240D" /></a>
+  <a href="https://linkedin.com/in/virubane"><img src="https://img.shields.io/badge/LinkedIn-14240D?style=for-the-badge&logo=linkedin&logoColor=84CC16&color=14240D&labelColor=14240D" /></a>
+  <a href="mailto:virajbane2004@gmail.com"><img src="https://img.shields.io/badge/Email-14240D?style=for-the-badge&logo=gmail&logoColor=84CC16&color=14240D&labelColor=14240D" /></a>
+  <a href="https://github.com/Virajbane"><img src="https://img.shields.io/badge/GitHub-14240D?style=for-the-badge&logo=github&logoColor=84CC16&color=14240D&labelColor=14240D" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Virajbane&label=Profile+Views&color=00FF9C&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/Virajbane?label=Followers&style=flat-square&color=00FF9C&labelColor=0D1117" />
-  <img src="https://img.shields.io/github/stars/Virajbane/Virajbane?style=flat-square&color=00FF9C&labelColor=0D1117&label=Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Virajbane&label=Profile+Views&color=84CC16&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Virajbane?label=Followers&style=flat-square&color=84CC16&labelColor=14240D" />
+  <img src="https://img.shields.io/github/stars/Virajbane/Virajbane?style=flat-square&color=84CC16&labelColor=14240D&label=Stars" />
 </p>
 
 ---
@@ -78,19 +78,19 @@ OPEN_TO   = "AI/ML Engineer roles"
 <p align="left"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,git,github,vercel&theme=dark" /></p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&color=0D1117&labelColor=0D1117&logo=pytorch&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/scikit--learn-0D1117?style=flat-square&color=0D1117&labelColor=0D1117&logo=scikitlearn&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&color=0D1117&labelColor=0D1117&logo=pandas&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/NumPy-0D1117?style=flat-square&color=0D1117&labelColor=0D1117&logo=numpy&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-0D1117?style=flat-square&color=0D1117&labelColor=0D1117&logo=huggingface&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/Ollama-0D1117?style=flat-square&color=0D1117&labelColor=0D1117&logo=ollama&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&color=0D1117&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/LangGraph-0D1117?style=flat-square&color=0D1117&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Qdrant-0D1117?style=flat-square&color=0D1117&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/ChromaDB-0D1117?style=flat-square&color=0D1117&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Supabase-0D1117?style=flat-square&color=0D1117&labelColor=0D1117&logo=supabase&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/n8n-0D1117?style=flat-square&color=0D1117&labelColor=0D1117&logo=n8n&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/Google%20Colab-0D1117?style=flat-square&color=0D1117&labelColor=0D1117&logo=googlecolab&logoColor=00FF9C" />
+  <img src="https://img.shields.io/badge/PyTorch-14240D?style=flat-square&color=14240D&labelColor=14240D&logo=pytorch&logoColor=84CC16" />
+  <img src="https://img.shields.io/badge/scikit--learn-14240D?style=flat-square&color=14240D&labelColor=14240D&logo=scikitlearn&logoColor=84CC16" />
+  <img src="https://img.shields.io/badge/Pandas-14240D?style=flat-square&color=14240D&labelColor=14240D&logo=pandas&logoColor=84CC16" />
+  <img src="https://img.shields.io/badge/NumPy-14240D?style=flat-square&color=14240D&labelColor=14240D&logo=numpy&logoColor=84CC16" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-14240D?style=flat-square&color=14240D&labelColor=14240D&logo=huggingface&logoColor=84CC16" />
+  <img src="https://img.shields.io/badge/Ollama-14240D?style=flat-square&color=14240D&labelColor=14240D&logo=ollama&logoColor=84CC16" />
+  <img src="https://img.shields.io/badge/LangChain-14240D?style=flat-square&color=14240D&labelColor=14240D" />
+  <img src="https://img.shields.io/badge/LangGraph-14240D?style=flat-square&color=14240D&labelColor=14240D" />
+  <img src="https://img.shields.io/badge/Qdrant-14240D?style=flat-square&color=14240D&labelColor=14240D" />
+  <img src="https://img.shields.io/badge/ChromaDB-14240D?style=flat-square&color=14240D&labelColor=14240D" />
+  <img src="https://img.shields.io/badge/Supabase-14240D?style=flat-square&color=14240D&labelColor=14240D&logo=supabase&logoColor=84CC16" />
+  <img src="https://img.shields.io/badge/n8n-14240D?style=flat-square&color=14240D&labelColor=14240D&logo=n8n&logoColor=84CC16" />
+  <img src="https://img.shields.io/badge/Google%20Colab-14240D?style=flat-square&color=14240D&labelColor=14240D&logo=googlecolab&logoColor=84CC16" />
 </p>
 
 ---
@@ -98,10 +98,10 @@ OPEN_TO   = "AI/ML Engineer roles"
 ### `$ ./specialty --list`
 
 <p align="left">
-  <img src="https://img.shields.io/badge/RAG%20Systems-00FF9C?style=for-the-badge&labelColor=0D1117&color=0D1117&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/Multi--Agent%20LLM%20Pipelines-00FF9C?style=for-the-badge&labelColor=0D1117&color=0D1117&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/NLP%20%26%20Fine--tuning-00FF9C?style=for-the-badge&labelColor=0D1117&color=0D1117&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/Secure%20Backend%20Engineering-00FF9C?style=for-the-badge&labelColor=0D1117&color=0D1117&logoColor=00FF9C" />
+  <img src="https://img.shields.io/badge/RAG%20Systems-84CC16?style=for-the-badge&labelColor=14240D&color=14240D&logoColor=84CC16" />
+  <img src="https://img.shields.io/badge/Multi--Agent%20LLM%20Pipelines-84CC16?style=for-the-badge&labelColor=14240D&color=14240D&logoColor=84CC16" />
+  <img src="https://img.shields.io/badge/NLP%20%26%20Fine--tuning-84CC16?style=for-the-badge&labelColor=14240D&color=14240D&logoColor=84CC16" />
+  <img src="https://img.shields.io/badge/Secure%20Backend%20Engineering-84CC16?style=for-the-badge&labelColor=14240D&color=14240D&logoColor=84CC16" />
 </p>
 
 ---
@@ -217,9 +217,9 @@ Built 2 n8n automation agents: a **JD → Resume Generator** that tailors a resu
 - Debugged, tested, and optimized Python applications to improve reliability and performance
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&color=0D1117&labelColor=0D1117&logo=python&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/Automation-0D1117?style=flat-square&color=0D1117&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Debugging-0D1117?style=flat-square&color=0D1117&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Python-14240D?style=flat-square&color=14240D&labelColor=14240D&logo=python&logoColor=84CC16" />
+  <img src="https://img.shields.io/badge/Automation-14240D?style=flat-square&color=14240D&labelColor=14240D" />
+  <img src="https://img.shields.io/badge/Debugging-14240D?style=flat-square&color=14240D&labelColor=14240D" />
 </p>
 
 ---
@@ -245,22 +245,24 @@ Built 2 n8n automation agents: a **JD → Resume Generator** that tailors a resu
 ### `$ whoami --education`
 
 <p align="left">
-  <img src="https://img.shields.io/badge/B.E._Computer_Science_&_Engineering_(AI_&_ML)-Viva_Institute_of_Technology-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117&logoColor=00FF9C" />
+  <img src="https://img.shields.io/badge/B.E._Computer_Science_&_Engineering_(AI_&_ML)-Viva_Institute_of_Technology-14240D?style=for-the-badge&labelColor=14240D&color=14240D&logoColor=84CC16" />
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/Diploma_Computer_Engineering-Vidyavardhini's_Bhausaheb_Vartak_Polytechnic-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117&logoColor=00FF9C" />
+  <img src="https://img.shields.io/badge/Diploma_Computer_Engineering-Vidyavardhini's_Bhausaheb_Vartak_Polytechnic-14240D?style=for-the-badge&labelColor=14240D&color=14240D&logoColor=84CC16" />
 </p>
 
 ---
 
 ### `$ curl api.github.com/analytics`
 
+Self-hosted via GitHub Actions — static cards, no third-party rate limits.
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Virajbane&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9&border_color=00FF9C" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Virajbane&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9&stroke=0D1117" />
+  <img height="165" src="https://raw.githubusercontent.com/Virajbane/Virajbane/main/profile/stats.svg" />
+  <img height="165" src="https://raw.githubusercontent.com/Virajbane/Virajbane/main/profile/streak.svg" />
 </p>
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virajbane&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&border_color=00FF9C" />
+  <img height="165" src="https://raw.githubusercontent.com/Virajbane/Virajbane/main/profile/top-langs.svg" />
 </p>
 
 ---
@@ -268,7 +270,7 @@ Built 2 n8n automation agents: a **JD → Resume Generator** that tailors a resu
 ### `$ ./show_trophies.sh`
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Virajbane&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Virajbane&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" />
 </p>
 
 ---
@@ -276,29 +278,16 @@ Built 2 n8n automation agents: a **JD → Resume Generator** that tailors a resu
 ### `$ tail -f activity.log`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Virajbane&bg_color=0D1117&color=00FF9C&line=00FF9C&point=C9D1D9&area=true&area_color=00FF9C&hide_border=true" />
-</p>
-
----
-
-### `$ ./summary_cards.sh`
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details.svg?username=Virajbane&theme=github_dark" width="100%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=Virajbane&theme=github_dark" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=Virajbane&theme=github_dark" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats.svg?username=Virajbane&theme=github_dark" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time.svg?username=Virajbane&theme=github_dark" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Virajbane&bg_color=14240D&color=84CC16&line=84CC16&point=E5E7EB&area=true&area_color=84CC16&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Virajbane/Virajbane/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Virajbane/Virajbane/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Virajbane/Virajbane/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 </p>
 
 ---
@@ -327,13 +316,13 @@ open_to:
 ### `$ ./connect.sh`
 
 <p align="center">
-  <a href="https://virrajportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF9C&color=0D1117&labelColor=0D1117" /></a>
-  <a href="https://linkedin.com/in/virubane"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C&color=0D1117&labelColor=0D1117" /></a>
-  <a href="https://instagram.com/_.virajbane._"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF9C&color=0D1117&labelColor=0D1117" /></a>
-  <a href="mailto:virajbane2004@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9C&color=0D1117&labelColor=0D1117" /></a>
-  <a href="https://github.com/Virajbane"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C&color=0D1117&labelColor=0D1117" /></a>
+  <a href="https://virrajportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-14240D?style=for-the-badge&logo=vercel&logoColor=84CC16&color=14240D&labelColor=14240D" /></a>
+  <a href="https://linkedin.com/in/virubane"><img src="https://img.shields.io/badge/LinkedIn-14240D?style=for-the-badge&logo=linkedin&logoColor=84CC16&color=14240D&labelColor=14240D" /></a>
+  <a href="https://instagram.com/_.virajbane._"><img src="https://img.shields.io/badge/Instagram-14240D?style=for-the-badge&logo=instagram&logoColor=84CC16&color=14240D&labelColor=14240D" /></a>
+  <a href="mailto:virajbane2004@gmail.com"><img src="https://img.shields.io/badge/Email-14240D?style=for-the-badge&logo=gmail&logoColor=84CC16&color=14240D&labelColor=14240D" /></a>
+  <a href="https://github.com/Virajbane"><img src="https://img.shields.io/badge/GitHub-14240D?style=for-the-badge&logo=github&logoColor=84CC16&color=14240D&labelColor=14240D" /></a>
 </p>
 
 <p align="center"><i>"Recall@6 doesn't lift itself — ship the eval harness before you ship the demo."</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FF9C,100:0D1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:84CC16,100:14240D&height=120&section=footer" width="100%"/>
